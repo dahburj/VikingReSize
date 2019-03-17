@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b05e768b14d9a664f979a9f58f631b59, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  categories:
+  - title: Textures
+    extensions: bmp exr gif hdr iff jpg pict png psd tga tiff
+    color:
+      serializedVersion: 2
+      rgba: 4287191406
+    amount: 2481616
+    show: 1
+  - title: Audio
+    extensions: mp3 wav ogg aiff aif mod it s3m xm
+    color:
+      serializedVersion: 2
+      rgba: 4288054408
+    amount: 10973359
+    show: 1
+  - title: Fonts
+    extensions: ttf otf
+    color:
+      serializedVersion: 2
+      rgba: 4284244674
+    amount: 32316
+    show: 1
+  - title: Models
+    extensions: fbx dae 3ds dxf obj
+    color:
+      serializedVersion: 2
+      rgba: 4286230356
+    amount: 0
+    show: 1
+  - title: Prefabs
+    extensions: prefab
+    color:
+      serializedVersion: 2
+      rgba: 4283611556
+    amount: 15607
+    show: 1
+  - title: Materials
+    extensions: mat
+    color:
+      serializedVersion: 2
+      rgba: 4286302870
+    amount: 5714
+    show: 1
+  - title: Scripts
+    extensions: cs shader
+    color:
+      serializedVersion: 2
+      rgba: 4292129110
+    amount: 77126
+    show: 1
+  - title: Animations
+    extensions: controller anim
+    color:
+      serializedVersion: 2
+      rgba: 4288177568
+    amount: 0
+    show: 1
+  - title: Meta
+    extensions: meta
+    color:
+      serializedVersion: 2
+      rgba: 4282861383
+    amount: 139420
+    show: 1
+  total: 33757254
